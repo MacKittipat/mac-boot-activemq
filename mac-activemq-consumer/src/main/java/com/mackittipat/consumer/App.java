@@ -1,4 +1,4 @@
-package com.mackittipat.queueconsumer;
+package com.mackittipat.consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

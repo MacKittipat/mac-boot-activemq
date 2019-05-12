@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mackittipat</groupId>
-    <artifactId>mac-activemq-queue-consumer</artifactId>
+    <artifactId>mac-activemq-consumer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>mac-activemq-queue-consumer</name>
+    <name>mac-activemq-consumer</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

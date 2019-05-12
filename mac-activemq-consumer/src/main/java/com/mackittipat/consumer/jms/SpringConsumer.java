@@ -1,4 +1,4 @@
-package com.mackittipat.queueconsumer.jms;
+package com.mackittipat.consumer.jms;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
